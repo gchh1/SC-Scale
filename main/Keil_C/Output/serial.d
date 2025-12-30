@@ -1,0 +1,36 @@
+..\output\serial.o: ..\Apps\Serial.c
+..\output\serial.o: ..\Apps\Serial.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\SC32f12xx.h
+..\output\serial.o: ..\CMSIS\core_cm0plus.h
+..\output\serial.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\serial.o: ..\CMSIS\cmsis_version.h
+..\output\serial.o: ..\CMSIS\cmsis_compiler.h
+..\output\serial.o: ..\CMSIS\cmsis_armcc.h
+..\output\serial.o: ..\CMSIS\mpu_armv7.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\system_sc32f1xxx.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_rcc.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_gpio.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_iap.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_adc.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_cmp.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_option.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_int.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_uart.h
+..\output\serial.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_spi.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_twi.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_wdt.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_btm.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_crc.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwm.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_ledpwm.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_lcd.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_led.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_tim.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_dma.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwr.h
+..\output\serial.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_op.h

@@ -1,0 +1,36 @@
+..\output\weightsensor.o: ..\Apps\WeightSensor.c
+..\output\weightsensor.o: ..\Apps\WeightSensor.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\SC32f12xx.h
+..\output\weightsensor.o: ..\CMSIS\core_cm0plus.h
+..\output\weightsensor.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\weightsensor.o: ..\CMSIS\cmsis_version.h
+..\output\weightsensor.o: ..\CMSIS\cmsis_compiler.h
+..\output\weightsensor.o: ..\CMSIS\cmsis_armcc.h
+..\output\weightsensor.o: ..\CMSIS\mpu_armv7.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\system_sc32f1xxx.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_rcc.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_gpio.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_iap.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_adc.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_cmp.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_option.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_int.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_uart.h
+..\output\weightsensor.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_spi.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_twi.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_wdt.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_btm.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_crc.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwm.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_ledpwm.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_lcd.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_led.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_tim.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_dma.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwr.h
+..\output\weightsensor.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_op.h

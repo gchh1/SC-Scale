@@ -1,0 +1,35 @@
+..\output\dalay.o: ..\Apps\Dalay.c
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\SC32f12xx.h
+..\output\dalay.o: ..\CMSIS\core_cm0plus.h
+..\output\dalay.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\dalay.o: ..\CMSIS\cmsis_version.h
+..\output\dalay.o: ..\CMSIS\cmsis_compiler.h
+..\output\dalay.o: ..\CMSIS\cmsis_armcc.h
+..\output\dalay.o: ..\CMSIS\mpu_armv7.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\system_sc32f1xxx.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_rcc.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_gpio.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_iap.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_adc.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_cmp.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_option.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_int.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_uart.h
+..\output\dalay.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_spi.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_twi.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_wdt.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_btm.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_crc.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwm.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_ledpwm.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_lcd.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_led.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_tim.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_dma.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwr.h
+..\output\dalay.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_op.h

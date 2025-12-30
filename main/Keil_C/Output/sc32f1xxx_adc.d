@@ -1,0 +1,35 @@
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\src\sc32f1xxx_adc.c
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_adc.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\SC32f12xx.h
+..\output\sc32f1xxx_adc.o: ..\CMSIS\core_cm0plus.h
+..\output\sc32f1xxx_adc.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\sc32f1xxx_adc.o: ..\CMSIS\cmsis_version.h
+..\output\sc32f1xxx_adc.o: ..\CMSIS\cmsis_compiler.h
+..\output\sc32f1xxx_adc.o: ..\CMSIS\cmsis_armcc.h
+..\output\sc32f1xxx_adc.o: ..\CMSIS\mpu_armv7.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\system_sc32f1xxx.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_rcc.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_gpio.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_iap.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_adc.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_cmp.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_option.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_int.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_uart.h
+..\output\sc32f1xxx_adc.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_spi.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_twi.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_wdt.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_btm.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_crc.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwm.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_ledpwm.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_lcd.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_led.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_tim.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_dma.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwr.h
+..\output\sc32f1xxx_adc.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_op.h

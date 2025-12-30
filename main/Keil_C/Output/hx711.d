@@ -1,0 +1,37 @@
+..\output\hx711.o: ..\Apps\HX711.c
+..\output\hx711.o: ..\Apps\HX711.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\SC32f12xx.h
+..\output\hx711.o: ..\CMSIS\core_cm0plus.h
+..\output\hx711.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\hx711.o: ..\CMSIS\cmsis_version.h
+..\output\hx711.o: ..\CMSIS\cmsis_compiler.h
+..\output\hx711.o: ..\CMSIS\cmsis_armcc.h
+..\output\hx711.o: ..\CMSIS\mpu_armv7.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\system_sc32f1xxx.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_rcc.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_gpio.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_iap.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_adc.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32_conf.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_cmp.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_option.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_int.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_uart.h
+..\output\hx711.o: D:\program files\keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_spi.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_twi.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_wdt.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_btm.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_crc.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwm.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_ledpwm.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_lcd.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_led.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_tim.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_dma.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_pwr.h
+..\output\hx711.o: ..\FWLib\SC32F1XXX_Lib\inc\sc32f1xxx_op.h
+..\output\hx711.o: ..\Apps\Delay.h
